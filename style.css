@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Box {
+  background-color: slategray;
+  color: white;
+  width: 60vw;
+  height: 40vh;
+  margin: 30vh 20vw 30vh 20vw;
+  padding: 1rem;
+}
