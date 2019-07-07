@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  padding: 0 2re;
+  margin: 0 auto;
+}
+
+
+
+nav {
+  /* column-count: 4;
+  column-width: 150px; */
+  columns: 4 150px;
+  column-gap: 3rem;
+  column-rule: 1px dashed #ccc;
+  column-fill: balance;
+}
+
+h2 {
+  column-span: all;
+}
